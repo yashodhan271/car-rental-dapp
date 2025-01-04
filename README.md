@@ -133,23 +133,7 @@ Update application.yml with new contract addresses
   - Reentrancy protection
   - Emergency pause functionality
 
-## 📱 Screenshots
 
-<div align="center">
-<details>
-<summary>Click to view screenshots</summary>
-
-### Home Page
-![Home Page](path/to/homepage.png)
-
-### Car Listing
-![Car Listing](path/to/car-listing.png)
-
-### Rental Dashboard
-![Dashboard](path/to/dashboard.png)
-
-</details>
-</div>
 
 ## 🤝 Contributing
 
@@ -165,11 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Material-UI team for the amazing UI components
 - Web3j community for Ethereum integration tools
 
-## 📞 Contact
 
-For questions and support, please open an issue or contact us at:
-- 📧 Email: support@carrentaldapp.com
-- 💬 Discord: [Join our server](https://discord.gg/carrentaldapp)
 
 ---
 
