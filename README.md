@@ -84,7 +84,7 @@ graph TD
 ### Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/car-rental-dapp.git
+git clone https://github.com/yashodhan271/car-rental-dapp.git
 
 # Navigate to backend directory
 cd car-rental-dapp
@@ -178,6 +178,6 @@ For questions and support, please open an issue or contact us at:
 Made with ❤️ by the Car Rental DApp Team
 
 [![Follow us on Twitter](https://img.shields.io/twitter/follow/carrentaldapp?style=social)](https://twitter.com/carrentaldapp)
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/car-rental-dapp?style=social)](https://github.com/yourusername/car-rental-dapp)
+[![Star on GitHub](https://img.shields.io/github/stars/yashodhan271/car-rental-dapp?style=social)](https://github.com/yashodhan271/car-rental-dapp)
 
 </div>
