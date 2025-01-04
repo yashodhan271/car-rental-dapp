@@ -1,0 +1,22 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/carrent
+      database: carrent
+
+jwt:
+  secret: 8Zz5tw0Ionm3XPZZfN0NOml3z9FMfmpgXwovR9fp6ryDIoGRM8EPHAB6iHsc0fb
+  expiration: 86400000 # 24 hours
+
+server:
+  port: 8080
+
+web3:
+  network: http://localhost:8545
+  contract:
+    address: "your_contract_address"
+    owner-private-key: "your_private_key"
+
+ipfs:
+  node:
+    url: http://localhost:5001
